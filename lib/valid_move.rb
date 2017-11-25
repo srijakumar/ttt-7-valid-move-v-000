@@ -1,5 +1,5 @@
 # code your #valid_move? method here
-def valid_move? (input) 
+def valid_move? (input)
   if input.between?(1, 9) && position_taken? == true
   end
 end
